@@ -1,0 +1,2 @@
+- I stick to one ‘H1’ on the page and use headings ‘H2’, ‘H3′ were appropriate. Keep headings in order. Avoid using headings for design elements. Write naturally with keywords in Headings if relevant. Avoid keyword stuffing.
+-
