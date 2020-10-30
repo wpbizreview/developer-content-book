@@ -32,3 +32,5 @@ At the moment. we are categorizing these tips and tricks as follows:
 
 ## 3. Other Technicalities
 
+- Know your target audience.
+
