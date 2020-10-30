@@ -17,6 +17,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Avoid writing complex and lengthy sentences. Sentence structuring should be well-adopted.
 - Encourage using formatting styles like bullets, numbering, bold and italic.
 - Try writing in active voice and avoid passive voice.
+- Be careful about punctuations especially commas, semi colons, em-dash, parenthese, etc.
 
 ## 2. Media Related
 
