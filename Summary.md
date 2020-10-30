@@ -11,6 +11,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - All post titles should be properly titled cased
 - Title length should not be more than 8 words. An ideal limit is between 5 and 8 words.
 - Use H1 only in your post titles and there should be only one H1 heading.
+- For main headings and sub-headings, use H2 and H3 heading tags.
 
 ## 2. Media Related
 
