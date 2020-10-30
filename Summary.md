@@ -23,6 +23,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 ## 2. Media Related
 
 - Images should not be pixelated and should be of good quality.
+- Images should be large in size accroding to your screen.
 
 ## 3. Other Technicalities
 
