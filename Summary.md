@@ -28,6 +28,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Images should be only .jpg or .jpeg.
 - Use videos instead of GIFs to save bandwidth.
 - Avoid over loaded image  editing like borders.
+- Images should open in new tabs.
 
 ## 3. Other Technicalities
 
