@@ -26,6 +26,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Images should be large in size accroding to your screen.
 - Image annotations should be consistent.
 - Images should be only .jpg or .jpeg.
+- Use videos instead of GIFs to save bandwidth.
 
 ## 3. Other Technicalities
 
