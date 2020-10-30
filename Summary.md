@@ -14,6 +14,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - For main headings and sub-headings, use H2 and H3 heading tags.
 - Adopt a habit of writing your content in paragraphs that are short, consise and well structured.
 - Your content should be grammatically correct with no typo and punctuation errors. 
+- Avoid writing complex and lengthy sentences. Sentence structuring should be well-adopted.
 
 ## 2. Media Related
 
