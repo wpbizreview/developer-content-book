@@ -13,6 +13,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Use H1 only in your post titles and there should be only one H1 heading.
 - For main headings and sub-headings, use H2 and H3 heading tags.
 - Adopt a habit of writing your content in paragraphs that are short, consise and well structured.
+- Your content should be grammatically correct with no typo and punctuation errors. 
 
 ## 2. Media Related
 
