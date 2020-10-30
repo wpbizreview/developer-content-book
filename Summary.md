@@ -16,6 +16,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Your content should be grammatically correct with no typo and punctuation errors. 
 - Avoid writing complex and lengthy sentences. Sentence structuring should be well-adopted.
 - Encourage using formatting styles like bullets, numbering, bold and italic.
+- Try writing in active voice and avoid passive voice.
 
 ## 2. Media Related
 
