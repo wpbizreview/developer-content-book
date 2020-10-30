@@ -6,3 +6,9 @@ At the moment. we are categorizing these tips and tricks as follows:
 2. Media Related
 3. Other Technicalities
 
+## 1. Content Related
+
+## 2. Media Related
+
+## 3. Other Technicalities
+
