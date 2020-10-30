@@ -27,6 +27,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Image annotations should be consistent.
 - Images should be only .jpg or .jpeg.
 - Use videos instead of GIFs to save bandwidth.
+- Avoid over loaded image  editing like borders.
 
 ## 3. Other Technicalities
 
