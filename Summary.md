@@ -34,4 +34,5 @@ At the moment. we are categorizing these tips and tricks as follows:
 
 - Know your target audience.
 - Write in first and second person.
+- Take care of all best SEO practices.
 
