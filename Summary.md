@@ -25,6 +25,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 - Images should not be pixelated and should be of good quality.
 - Images should be large in size accroding to your screen.
 - Image annotations should be consistent.
+- Images should be only .jpg or .jpeg.
 
 ## 3. Other Technicalities
 
