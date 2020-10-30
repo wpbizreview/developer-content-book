@@ -9,6 +9,7 @@ At the moment. we are categorizing these tips and tricks as follows:
 ## 1. Content Related
 
 - All post titles should be properly titled cased
+- Title length should not be more than 8 words. An ideal limit is between 5 and 8 words.
 
 ## 2. Media Related
 
